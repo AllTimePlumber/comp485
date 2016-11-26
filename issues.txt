@@ -6,3 +6,7 @@ This is a list of things we need to / have done to the website. We're going to l
 
 
 One thing we might want to do is have the side bar disappear or appear below completely on smaller screens. (simple class change once everything is ported to use Bootstrap)
+
+issues:
+
+image slider looks weird on smaller screens. Perhaps we should just hide it on smaller devices?
