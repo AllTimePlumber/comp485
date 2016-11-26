@@ -1,0 +1,5 @@
+This is a list of things we need to / have done to the website. We're going to look at the UI design guidelines and any other relevant lectures. For example, we should choose a color palette that works for color-blind people.
+
+1) Installed Bootstrap (makes the website mobile responsive)
+2) Followed Bootstrap's guidelines (their examples talk about accessibility--aria labels)
+3) Use jQuery to handle cross-browser compatability issues.
