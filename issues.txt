@@ -18,3 +18,5 @@ Eric's To do:
 2) Choose better colors for EVERYTHING
 3) change side bar into footer.
 4) dont add all the content. It's FAR TOO MUCH for a single page.
+
+https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/
