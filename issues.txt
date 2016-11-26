@@ -10,3 +10,11 @@ One thing we might want to do is have the side bar disappear or appear below com
 issues:
 
 image slider looks weird on smaller screens. Perhaps we should just hide it on smaller devices?
+
+
+Eric's To do:
+
+1) Move search to navbar
+2) Choose better colors for EVERYTHING
+3) change side bar into footer.
+4) dont add all the content. It's FAR TOO MUCH for a single page.
