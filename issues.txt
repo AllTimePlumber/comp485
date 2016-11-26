@@ -3,3 +3,6 @@ This is a list of things we need to / have done to the website. We're going to l
 1) Installed Bootstrap (makes the website mobile responsive)
 2) Followed Bootstrap's guidelines (their examples talk about accessibility--aria labels)
 3) Use jQuery to handle cross-browser compatability issues.
+
+
+One thing we might want to do is have the side bar disappear or appear below completely on smaller screens. (simple class change once everything is ported to use Bootstrap)
