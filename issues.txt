@@ -14,7 +14,8 @@ image slider looks weird on smaller screens. Perhaps we should just hide it on s
 
 Eric's To do:
 
-1) Better colors
+1) Better colors?
+2) FIX NAVBAR COLORS for better contrast
 
 https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/
 
